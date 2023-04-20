@@ -1,0 +1,25 @@
+body{
+   background:skyblue ;
+}
+
+.myclock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: orangered;
+    font-family: cursive;
+    transform: translateX(-50%) translateY(-50%);
+    letter-spacing: 9px;
+    font-size: 80px;
+}
+
+
+.date{
+    position: absolute;
+    top: 56%;
+    left: 35%;
+    font-size: 52px;
+    font-family: monospace;
+}
+
+
